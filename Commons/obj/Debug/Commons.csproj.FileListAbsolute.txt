@@ -1,0 +1,12 @@
+E:\Work\MemCacheMonitor\MemCacheMonitor\Commons\bin\Debug\Commons.dll
+E:\Work\MemCacheMonitor\MemCacheMonitor\Commons\bin\Debug\Commons.pdb
+E:\Work\MemCacheMonitor\MemCacheMonitor\Commons\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\MemCacheMonitor\MemCacheMonitor\Commons\obj\Debug\Commons.dll
+E:\Work\MemCacheMonitor\MemCacheMonitor\Commons\obj\Debug\Commons.pdb
+C:\Users\FMP\Desktop\MemCacheMonitor\Commons\bin\Debug\Commons.dll
+C:\Users\FMP\Desktop\MemCacheMonitor\Commons\bin\Debug\Commons.pdb
+C:\Users\FMP\Desktop\MemCacheMonitor\Commons\obj\Debug\Commons.csprojAssemblyReference.cache
+C:\Users\FMP\Desktop\MemCacheMonitor\Commons\obj\Debug\Commons.csproj.CoreCompileInputs.cache
+C:\Users\FMP\Desktop\MemCacheMonitor\Commons\obj\Debug\Commons.csproj.CopyComplete
+C:\Users\FMP\Desktop\MemCacheMonitor\Commons\obj\Debug\Commons.dll
+C:\Users\FMP\Desktop\MemCacheMonitor\Commons\obj\Debug\Commons.pdb
